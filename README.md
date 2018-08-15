@@ -20,7 +20,7 @@
 
 [commonJs && es6](https://github.com/xixigiggling/my-ice-cream/issues/13)
 
-[js debug and log and test](https://github.com/xixigiggling/my-ice-cream/issues/13)
+[js debug and log and test](https://github.com/xixigiggling/my-ice-cream/issues/14)
 
 [bigo 笔试](https://github.com/xixigiggling/my-ice-cream/issues/1)
 
