@@ -6,6 +6,8 @@
 
 ### 项目的一些探索、发现
 
+[chrome-devTools的animations工具与vant UI框架的mask实现](https://github.com/xixigiggling/my-ice-cream/issues/17)
+
 [仿抖音下拉刷新的动画](https://github.com/xixigiggling/my-ice-cream/issues/11)
 
 [简易的上拉加载更多](https://github.com/xixigiggling/my-ice-cream/issues/12)
