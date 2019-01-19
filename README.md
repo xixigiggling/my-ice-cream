@@ -6,6 +6,10 @@
 
 ### 项目的一些探索、发现
 
+[fiddle初探：微信公众号网页抓包手机端数据](https://github.com/xixigiggling/my-ice-cream/issues/20
+
+[vue 打包部署到服务器上](https://github.com/xixigiggling/my-ice-cream/issues/18)
+
 [chrome-devTools的animations工具与vant UI框架的mask实现](https://github.com/xixigiggling/my-ice-cream/issues/17)
 
 [仿抖音下拉刷新的动画](https://github.com/xixigiggling/my-ice-cream/issues/11)
@@ -18,15 +22,14 @@
 
 [再接爬虫](https://github.com/xixigiggling/my-ice-cream/issues/7)
 
-### JavaScript基础
-
+### JS
 [commonJs && es6](https://github.com/xixigiggling/my-ice-cream/issues/13)
 
 [js debug and log and test](https://github.com/xixigiggling/my-ice-cream/issues/14)
 
 [bigo 笔试](https://github.com/xixigiggling/my-ice-cream/issues/1)
 
-### CSS基础
+### CSS
 
 [css属性篇之border-raduis（还在填坑中...）](https://github.com/xixigiggling/my-ice-cream/issues/15)
 
@@ -44,7 +47,6 @@
 
 [mysql升级从5.0到5.7](https://github.com/xixigiggling/my-ice-cream/issues/6)
 
+[网文记录_计算机之子 Winter 直播笔记](https://github.com/xixigiggling/my-ice-cream/issues/22)
+
 [Jeff Bezos' speech to Princeton](https://github.com/xixigiggling/my-ice-cream/issues/2)
-
-
-
