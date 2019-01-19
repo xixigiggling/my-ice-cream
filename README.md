@@ -31,7 +31,7 @@
 
 ### CSS
 
-[css属性篇之border-raduis（还在填坑中...）](https://github.com/xixigiggling/my-ice-cream/issues/15)
+[css属性篇之border-raduis](https://github.com/xixigiggling/my-ice-cream/issues/15)
 
 [css属性篇之line-height（还在填坑中...）](https://github.com/xixigiggling/my-ice-cream/issues/16)
 
