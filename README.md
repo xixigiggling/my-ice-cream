@@ -6,7 +6,7 @@
 
 ### 项目的一些探索、发现
 
-[fiddle初探：微信公众号网页抓包手机端数据](https://github.com/xixigiggling/my-ice-cream/issues/20
+[fiddle初探：微信公众号网页抓包手机端数据](https://github.com/xixigiggling/my-ice-cream/issues/20)
 
 [vue 打包部署到服务器上](https://github.com/xixigiggling/my-ice-cream/issues/18)
 
