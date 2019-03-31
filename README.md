@@ -50,3 +50,5 @@
 [网文记录_计算机之子 Winter 直播笔记](https://github.com/xixigiggling/my-ice-cream/issues/22)
 
 [Jeff Bezos' speech to Princeton](https://github.com/xixigiggling/my-ice-cream/issues/2)
+
+[记住一次赋值号引起的bug](https://github.com/xixigiggling/my-ice-cream/issues/23)
