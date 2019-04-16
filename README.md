@@ -23,6 +23,9 @@
 [再接爬虫](https://github.com/xixigiggling/my-ice-cream/issues/7)
 
 ### JS
+
+[js简易的面对对象初探](https://github.com/xixigiggling/my-ice-cream/issues/24)
+
 [commonJs && es6](https://github.com/xixigiggling/my-ice-cream/issues/13)
 
 [js debug and log and test](https://github.com/xixigiggling/my-ice-cream/issues/14)
