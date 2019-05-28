@@ -6,7 +6,7 @@
 
 ### 项目的一些探索、发现
 
-[简单记录：devServe的proxy和axios的baseURL相关](https://github.com/xixigiggling/my-ice-cream/issues/27)
+[简单记录：devServer的proxy和axios的baseURL相关](https://github.com/xixigiggling/my-ice-cream/issues/27)
 
 [fiddle初探：微信公众号网页抓包手机端数据](https://github.com/xixigiggling/my-ice-cream/issues/20)
 
