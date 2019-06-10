@@ -50,12 +50,14 @@
 
 ### 零零碎碎
 
+[今日份痛苦-js-type-转化](https://github.com/xixigiggling/my-ice-cream/issues/28)
+
+[记住一次赋值号引起的bug](https://github.com/xixigiggling/my-ice-cream/issues/23)
+
+[网文记录_计算机之子 Winter 直播笔记](https://github.com/xixigiggling/my-ice-cream/issues/22)
+
 [第一次bat脚本踩坑记](https://github.com/xixigiggling/my-ice-cream/issues/5)
 
 [mysql升级从5.0到5.7](https://github.com/xixigiggling/my-ice-cream/issues/6)
 
-[网文记录_计算机之子 Winter 直播笔记](https://github.com/xixigiggling/my-ice-cream/issues/22)
-
 [Jeff Bezos' speech to Princeton](https://github.com/xixigiggling/my-ice-cream/issues/2)
-
-[记住一次赋值号引起的bug](https://github.com/xixigiggling/my-ice-cream/issues/23)
