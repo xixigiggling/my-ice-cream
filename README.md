@@ -50,6 +50,8 @@
 
 ### 零零碎碎
 
+[简易的powershell前端部署脚本](https://github.com/xixigiggling/my-ice-cream/issues/29)
+
 [今日份痛苦-js-type-转化](https://github.com/xixigiggling/my-ice-cream/issues/28)
 
 [记住一次赋值号引起的bug](https://github.com/xixigiggling/my-ice-cream/issues/23)
