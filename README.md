@@ -24,6 +24,10 @@
 
 [再接爬虫](https://github.com/xixigiggling/my-ice-cream/issues/7)
 
+### 源码学习
+
+[koa为什么能实现洋葱模型（还在填坑中...）](https://github.com/xixigiggling/my-ice-cream/issues/34)
+
 ### JS
 
 [项目中的一些js片段记录](https://github.com/xixigiggling/my-ice-cream/issues/30)
