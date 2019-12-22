@@ -30,6 +30,8 @@
 
 ### JS
 
+[String.prototype.replace()方法的新认识](https://github.com/xixigiggling/my-ice-cream/issues/36)
+
 [项目中的一些js片段记录](https://github.com/xixigiggling/my-ice-cream/issues/30)
 
 [js简易的面对对象初探](https://github.com/xixigiggling/my-ice-cream/issues/24)
