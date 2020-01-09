@@ -6,6 +6,8 @@
 
 ### 项目的一些探索、发现
 
+[React简单使用总结](https://github.com/xixigiggling/my-ice-cream/issues/39)
+
 [移动端1px/100vh/滚动穿透问题](https://github.com/xixigiggling/my-ice-cream/issues/38)
 
 [记form表单中button默认type导致每次提交表单时刷新页面](https://github.com/xixigiggling/my-ice-cream/issues/37)
