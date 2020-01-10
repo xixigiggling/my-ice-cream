@@ -6,6 +6,8 @@
 
 ### 项目的一些探索、发现
 
+[百度网盘web端，背景图的transform效果 ](https://github.com/xixigiggling/my-ice-cream/issues/40)
+
 [React简单使用总结](https://github.com/xixigiggling/my-ice-cream/issues/39)
 
 [移动端1px/100vh/滚动穿透问题](https://github.com/xixigiggling/my-ice-cream/issues/38)
